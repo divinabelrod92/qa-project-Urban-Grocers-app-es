@@ -1,6 +1,6 @@
 import configuration
 headers = {
-    "Content-Type": "application/json",
+    "Content-Type": "application/json"
 }
 headers_token = {
     "Content-Type": "application/json",
